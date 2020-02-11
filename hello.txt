@@ -1,6 +1,4 @@
 from enum import Enum
-
-
 class Month(Enum):
     January = 1
     February = 2
